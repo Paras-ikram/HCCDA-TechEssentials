@@ -96,3 +96,17 @@ The website was accessed successfully using the public EIP of the load balancer,
 ### 5.2 Monitoring with Cloud Eye
 Using Huawei Cloud’s Cloud Eye, resource usage statistics and alarms for ECS and RDS were monitored. This feature helps in identifying potential issues and optimizing performance.
 
+
+<img width="1047" height="552" alt="login page" src="https://github.com/user-attachments/assets/41a421db-dc4b-4c2d-95d5-3ee2e9e69b12" />
+
+
+
+<img width="1646" height="476" alt="vpc" src="https://github.com/user-attachments/assets/5d83d4b9-113f-446b-85ff-c096845cbef6" />
+
+
+
+<img width="1640" height="485" alt="security group created" src="https://github.com/user-attachments/assets/5f4355d3-d0c0-4767-a7de-c0e8069ae904" />
+
+
+
+
