@@ -158,3 +158,17 @@ No network rule files in /etc/udev/rules.d
 In SandBox console > Image name > Shared with Tenants > Add Tenant
 
 *Enter Project ID and Confirm*
+
+
+<img width="680" height="192" alt="lab 2 1" src="https://github.com/user-attachments/assets/ee750941-484f-47ea-882d-355fb75688ea" />
+
+<img width="675" height="400" alt="administrator" src="https://github.com/user-attachments/assets/84395251-3bbb-4202-877a-7cc21f3014f2" />
+
+<img width="672" height="257" alt="root lab 2" src="https://github.com/user-attachments/assets/66e2e36e-9157-4980-8d1a-b13a6d1ed193" />
+
+<img width="676" height="353" alt="tenant nme" src="https://github.com/user-attachments/assets/111b7be4-c227-46af-abd9-16f0f10f5875" />
+
+<img width="681" height="526" alt="last image" src="https://github.com/user-attachments/assets/16ae44b7-0c96-446a-bf36-9f5ebcdefaba" />
+
+
+
